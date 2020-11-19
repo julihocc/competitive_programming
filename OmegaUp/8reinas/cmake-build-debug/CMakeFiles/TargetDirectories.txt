@@ -1,0 +1,3 @@
+D:/yuyo.84@gmail.com/__COMPETITIVE_PROGRAMMING__/OmegaUp/8reinas/cmake-build-debug/CMakeFiles/8reinas.dir
+D:/yuyo.84@gmail.com/__COMPETITIVE_PROGRAMMING__/OmegaUp/8reinas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/yuyo.84@gmail.com/__COMPETITIVE_PROGRAMMING__/OmegaUp/8reinas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
